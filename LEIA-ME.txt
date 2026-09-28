@@ -1,0 +1,14 @@
+MEU TREINO - versão independente (fica só no seu celular)
+
+Arquivos (todos precisam ser enviados juntos):
+index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, apple-touch-icon.png
+
+Publicar grátis no GitHub Pages:
+1. Crie uma conta gratuita em github.com.
+2. Crie um repositório novo e público, por exemplo "meu-treino".
+3. "Add file" > "Upload files" > envie os 6 arquivos > "Commit changes".
+4. "Settings" > "Pages" > em "Branch" escolha "main" e "/ (root)" > "Save".
+5. Em 1 ou 2 minutos o endereço aparece: https://SEU-USUARIO.github.io/meu-treino/
+6. Abra esse endereço no celular e use "Adicionar à tela inicial".
+
+Seus dados NÃO vão para o GitHub: ficam só no celular. Faça backups pelo menu Ajustes.
